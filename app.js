@@ -27,5 +27,7 @@ const peoples = [
 ]
 
 peoples.forEach(people => {
-    if (people.age < 20) console.log(people.name);
+    if (people.age < 20) console.log(people.departament);
 });
+
+console.log(peoples);

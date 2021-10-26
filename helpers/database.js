@@ -1,1 +1,1 @@
-console.log("database");
+console.log("database config");
